@@ -51,6 +51,17 @@ The original `data/val` folder is not used as the main validation set because it
 
 ---
 
+
+## Data source
+
+The dataset used in this project is the **Chest X-Ray Images (Pneumonia)** dataset available on Kaggle:
+
+<https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data>
+
+The image files are not included in this repository. To reproduce the project, download the dataset from Kaggle and place it in the expected `data/` directory structure described below.
+
+---
+
 ## Dataset split
 
 The available dataset contains:
